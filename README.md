@@ -1,4 +1,4 @@
-# WordOccurrencesFinalProject
+# Word Occurrences Final Project
 
 This project covers the following topics:
 
